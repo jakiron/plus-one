@@ -1,0 +1,8 @@
+.plus-one{
+  padding: 5px;
+  width: fit-content;
+}
+
+.plus-one * {
+  padding: 10px;
+}
